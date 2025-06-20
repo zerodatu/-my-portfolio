@@ -63,3 +63,8 @@ img.next-image {
 .nav-line .nav-link {
   color: #69778c;
 }
+
+/* styles/main.css */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+}
